@@ -150,3 +150,4 @@ static
 # vscode
 .vscode
 **/config.py
+tests/data/
