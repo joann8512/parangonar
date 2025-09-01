@@ -149,3 +149,4 @@ static
 
 # vscode
 .vscode
+**/config.py
